@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ItsTheEditor
+ Hi, I’m @ItsTheEditor
   
--  I’m currently learning ...
+
 -  I’m looking to collaborate on my minecraft fruitmod
 - 📫 How to reach me editspace90@gmail.com
 
